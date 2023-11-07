@@ -1,0 +1,2 @@
+<h1 alingt:center>CardBazaar</h1>
+<div>CardBazaar è un progetto che ho sviluppato nella parte finale del mio corso in Aulab con altri 3 corsisti,  è un sito di annunci dedicato alle carte da gioco collezionabili dove un utente dopo registrazione, può creare i suoi annunci che per essere aggiunti al sito devono passare dei controlli effettuati da un revisore dove in un’area a lui dedicata può accettare o rifiutare ali annunci (aiutato dall’API di Google Vision).</div>
